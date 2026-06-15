@@ -62,7 +62,7 @@ def main():
     # 加载模型
     print('[INFO] Loading A (PureResUNet)...')
     model_a = PureResUNet(base_ch=CONFIG['base_ch']).to(device)
-    ckpt_a = torch.load('checkpoints/best_model.pth', map_location=device)
+    ckpt_a = torch.load('logs/A_20260517_105612/best_model.pth', map_location=device)
     state_a = ckpt_a.get('model_state_dict', ckpt_a)
     model_a.load_state_dict(state_a)
 
