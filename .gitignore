@@ -16,9 +16,6 @@ venv/
 *.swo
 
 # Data & models (large files)
-data/raw/**/*.yuv
-data/processed/**/*.yuv
-data/processed/**/*.bin
 checkpoints/
 logs/**/*.pth
 logs/**/checkpoints/

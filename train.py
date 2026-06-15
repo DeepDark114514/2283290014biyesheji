@@ -15,7 +15,7 @@ from tqdm import tqdm
 from config import CONFIG
 from models import PureResUNet, DegFiLMResUNet
 from losses import L1SSIMLoss
-from data import build_dataloader, tile_predict
+from datasets import build_dataloader, tile_predict
 from utils import EarlyStopping, calc_psnr, set_high_priority, disable_quick_edit_tip
 
 

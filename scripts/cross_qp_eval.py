@@ -21,7 +21,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from config import CONFIG
 from models import PureResUNet, DegFiLMResUNet
 from losses import L1SSIMLoss
-from data import build_dataloader
+from datasets import build_dataloader
 from train import validate
 from utils.metrics import calc_psnr
 
