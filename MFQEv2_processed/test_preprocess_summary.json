@@ -1,0 +1,98 @@
+{
+  "split": "test",
+  "total": 15,
+  "success": 15,
+  "failed": 0,
+  "details": [
+    {
+      "status": "success",
+      "seq": "BQSquare_416x240_600",
+      "hevc_size": 469556,
+      "yuv_size": 89856000
+    },
+    {
+      "status": "success",
+      "seq": "BlowingBubbles_416x240_500",
+      "hevc_size": 590651,
+      "yuv_size": 74880000
+    },
+    {
+      "status": "success",
+      "seq": "BQMall_832x480_600",
+      "hevc_size": 1539401,
+      "yuv_size": 359424000
+    },
+    {
+      "status": "success",
+      "seq": "FourPeople_1280x720_600",
+      "hevc_size": 726286,
+      "yuv_size": 829440000
+    },
+    {
+      "status": "success",
+      "seq": "Johnny_1280x720_600",
+      "hevc_size": 318025,
+      "yuv_size": 829440000
+    },
+    {
+      "status": "success",
+      "seq": "BQTerrace_1920x1080_600",
+      "hevc_size": 3411027,
+      "yuv_size": 1866240000
+    },
+    {
+      "status": "success",
+      "seq": "KristenAndSara_1280x720_600",
+      "hevc_size": 533035,
+      "yuv_size": 829440000
+    },
+    {
+      "status": "success",
+      "seq": "Kimono_1920x1080_240",
+      "hevc_size": 1937954,
+      "yuv_size": 746496000
+    },
+    {
+      "status": "success",
+      "seq": "Cactus_1920x1080_500",
+      "hevc_size": 4461251,
+      "yuv_size": 1555200000
+    },
+    {
+      "status": "success",
+      "seq": "ParkScene_1920x1080_240",
+      "hevc_size": 2087186,
+      "yuv_size": 746496000
+    },
+    {
+      "status": "success",
+      "seq": "RaceHorses_416x240_300",
+      "hevc_size": 565991,
+      "yuv_size": 44928000
+    },
+    {
+      "status": "success",
+      "seq": "PartyScene_832x480_500",
+      "hevc_size": 2613936,
+      "yuv_size": 299520000
+    },
+    {
+      "status": "success",
+      "seq": "RaceHorses_832x480_300",
+      "hevc_size": 1900360,
+      "yuv_size": 179712000
+    },
+    {
+      "status": "success",
+      "seq": "Traffic_2560x1600_150",
+      "hevc_size": 1556226,
+      "yuv_size": 921600000
+    },
+    {
+      "status": "success",
+      "seq": "PeopleOnStreet_2560x1600_150",
+      "hevc_size": 7999189,
+      "yuv_size": 921600000
+    }
+  ]
+}

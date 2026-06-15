@@ -1,0 +1,68 @@
+{
+  "split": "val",
+  "total": 10,
+  "success": 10,
+  "failed": 0,
+  "details": [
+    {
+      "status": "success",
+      "seq": "hallmonitor_352x288_300",
+      "hevc_size": 109347,
+      "yuv_size": 45619200
+    },
+    {
+      "status": "success",
+      "seq": "football_352x288_260",
+      "hevc_size": 754730,
+      "yuv_size": 39536640
+    },
+    {
+      "status": "success",
+      "seq": "11skateboarding-15_1920x1080_89",
+      "hevc_size": 245879,
+      "yuv_size": 276825600
+    },
+    {
+      "status": "success",
+      "seq": "ice_704x576_480",
+      "hevc_size": 629987,
+      "yuv_size": 291962880
+    },
+    {
+      "status": "success",
+      "seq": "harbour_704x576_600",
+      "hevc_size": 2807349,
+      "yuv_size": 364953600
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC056_640x360_150",
+      "hevc_size": 170297,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC199_640x360_120",
+      "hevc_size": 103048,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "18ANIMALS-5_1920x1080_288",
+      "hevc_size": 12634998,
+      "yuv_size": 895795200
+    },
+    {
+      "status": "success",
+      "seq": "LiquidAssets-eels-original_1920x1080_499",
+      "hevc_size": 7460934,
+      "yuv_size": 1552089600
+    },
+    {
+      "status": "success",
+      "seq": "LiquidAssets-blackandwhitefish_1920x1080_570",
+      "hevc_size": 16769931,
+      "yuv_size": 1772928000
+    }
+  ]
+}

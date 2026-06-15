@@ -1,0 +1,596 @@
+{
+  "split": "train",
+  "total": 98,
+  "success": 98,
+  "failed": 0,
+  "details": [
+    {
+      "status": "success",
+      "seq": "11skateboarding-5_1920x1080_51",
+      "hevc_size": 159184,
+      "yuv_size": 158630400
+    },
+    {
+      "status": "success",
+      "seq": "11skateboarding-10_1920x1080_87",
+      "hevc_size": 304389,
+      "yuv_size": 270604800
+    },
+    {
+      "status": "success",
+      "seq": "18ANIMALS-12_1920x1080_168",
+      "hevc_size": 1102033,
+      "yuv_size": 522547200
+    },
+    {
+      "status": "success",
+      "seq": "18ANIMALS-1_1920x1080_330",
+      "hevc_size": 1840748,
+      "yuv_size": 1026432000
+    },
+    {
+      "status": "success",
+      "seq": "18ANIMALS-6_1920x1080_228",
+      "hevc_size": 438808,
+      "yuv_size": 709171200
+    },
+    {
+      "status": "success",
+      "seq": "14airacrobatics-3_1920x1080_697",
+      "hevc_size": 976728,
+      "yuv_size": 2167948800
+    },
+    {
+      "status": "success",
+      "seq": "18ANIMALS-7_1920x1080_326",
+      "hevc_size": 600917,
+      "yuv_size": 1013990400
+    },
+    {
+      "status": "success",
+      "seq": "5costa_1920x1080_468",
+      "hevc_size": 8270298,
+      "yuv_size": 1455667200
+    },
+    {
+      "status": "success",
+      "seq": "7monkey4_1920x1080_217",
+      "hevc_size": 958955,
+      "yuv_size": 674956800
+    },
+    {
+      "status": "success",
+      "seq": "7monkey7_1920x1080_484",
+      "hevc_size": 1191080,
+      "yuv_size": 1505433600
+    },
+    {
+      "status": "success",
+      "seq": "3fjords-1_1920x1080_880",
+      "hevc_size": 14597693,
+      "yuv_size": 2737152000
+    },
+    {
+      "status": "success",
+      "seq": "3fjords-2_1920x1080_1606",
+      "hevc_size": 8970308,
+      "yuv_size": 4995302400
+    },
+    {
+      "status": "success",
+      "seq": "8americanfootball-6_1920x1080_374",
+      "hevc_size": 2068936,
+      "yuv_size": 1163289600
+    },
+    {
+      "status": "success",
+      "seq": "akiyo_352x288_300",
+      "hevc_size": 46739,
+      "yuv_size": 45619200
+    },
+    {
+      "status": "success",
+      "seq": "bus_352x288_150",
+      "hevc_size": 309622,
+      "yuv_size": 22809600
+    },
+    {
+      "status": "success",
+      "seq": "8americanfootball-7_1920x1080_392",
+      "hevc_size": 1764422,
+      "yuv_size": 1219276800
+    },
+    {
+      "status": "success",
+      "seq": "Cactus_1920x1080_189",
+      "hevc_size": 265338,
+      "yuv_size": 587865600
+    },
+    {
+      "status": "success",
+      "seq": "city_704x576_600",
+      "hevc_size": 869758,
+      "yuv_size": 364953600
+    },
+    {
+      "status": "success",
+      "seq": "coastguard_352x288_300",
+      "hevc_size": 431419,
+      "yuv_size": 45619200
+    },
+    {
+      "status": "success",
+      "seq": "cont_1920x1080_120",
+      "hevc_size": 834230,
+      "yuv_size": 373248000
+    },
+    {
+      "status": "success",
+      "seq": "Coastguard_1920x1080_150",
+      "hevc_size": 2112453,
+      "yuv_size": 466560000
+    },
+    {
+      "status": "success",
+      "seq": "deadline_352x288_1374",
+      "hevc_size": 574396,
+      "yuv_size": 208935936
+    },
+    {
+      "status": "success",
+      "seq": "crew_704x576_600",
+      "hevc_size": 1685446,
+      "yuv_size": 364953600
+    },
+    {
+      "status": "success",
+      "seq": "female_1920x1080_150",
+      "hevc_size": 107982,
+      "yuv_size": 466560000
+    },
+    {
+      "status": "success",
+      "seq": "14airacrobatics-2_1920x1080_2173",
+      "hevc_size": 9824177,
+      "yuv_size": 6758899200
+    },
+    {
+      "status": "success",
+      "seq": "football_720x480_360",
+      "hevc_size": 1696380,
+      "yuv_size": 186624000
+    },
+    {
+      "status": "success",
+      "seq": "foreman_352x288_300",
+      "hevc_size": 213914,
+      "yuv_size": 45619200
+    },
+    {
+      "status": "success",
+      "seq": "garden_352x240_115",
+      "hevc_size": 408025,
+      "yuv_size": 14572800
+    },
+    {
+      "status": "success",
+      "seq": "husky_352x288_250",
+      "hevc_size": 2101979,
+      "yuv_size": 38016000
+    },
+    {
+      "status": "success",
+      "seq": "Foreman_1920x1080_248",
+      "hevc_size": 886790,
+      "yuv_size": 771379200
+    },
+    {
+      "status": "success",
+      "seq": "intros_720x480_360",
+      "hevc_size": 234564,
+      "yuv_size": 186624000
+    },
+    {
+      "status": "success",
+      "seq": "in-to-tree_1920x1080_500",
+      "hevc_size": 2303505,
+      "yuv_size": 1555200000
+    },
+    {
+      "status": "success",
+      "seq": "crowdrun_1920x1080_500",
+      "hevc_size": 14855373,
+      "yuv_size": 1555200000
+    },
+    {
+      "status": "success",
+      "seq": "mad900_352x288_900",
+      "hevc_size": 261166,
+      "yuv_size": 136857600
+    },
+    {
+      "status": "success",
+      "seq": "male_1920x1080_150",
+      "hevc_size": 179278,
+      "yuv_size": 466560000
+    },
+    {
+      "status": "success",
+      "seq": "mobile-calendar_720x480_360",
+      "hevc_size": 2567438,
+      "yuv_size": 186624000
+    },
+    {
+      "status": "success",
+      "seq": "mobile_352x288_300",
+      "hevc_size": 543882,
+      "yuv_size": 45619200
+    },
+    {
+      "status": "success",
+      "seq": "LiquidAssets-blackfish-original_1920x1080_552",
+      "hevc_size": 6899551,
+      "yuv_size": 1716940800
+    },
+    {
+      "status": "success",
+      "seq": "mother-daughter_352x288_300",
+      "hevc_size": 70142,
+      "yuv_size": 45619200
+    },
+    {
+      "status": "success",
+      "seq": "LiquidAssets-greenanemone-original_1920x1080_414",
+      "hevc_size": 6841531,
+      "yuv_size": 1287705600
+    },
+    {
+      "status": "success",
+      "seq": "LiquidAssets-camofish-original_1920x1080_573",
+      "hevc_size": 15333263,
+      "yuv_size": 1782259200
+    },
+    {
+      "status": "success",
+      "seq": "Netflix-BoxingPractice_2048x1080_254",
+      "hevc_size": 1336792,
+      "yuv_size": 842711040
+    },
+    {
+      "status": "success",
+      "seq": "mpr-BusB4-original_1920x1080_571",
+      "hevc_size": 5483504,
+      "yuv_size": 1776038400
+    },
+    {
+      "status": "success",
+      "seq": "Netflix-Narrator_2048x1080_300",
+      "hevc_size": 839842,
+      "yuv_size": 995328000
+    },
+    {
+      "status": "success",
+      "seq": "Netflix-Crosswalk_2048x1080_300",
+      "hevc_size": 1744399,
+      "yuv_size": 995328000
+    },
+    {
+      "status": "success",
+      "seq": "news_352x288_300",
+      "hevc_size": 135108,
+      "yuv_size": 45619200
+    },
+    {
+      "status": "success",
+      "seq": "Netflix-Tango_2048x1080_294",
+      "hevc_size": 2014025,
+      "yuv_size": 975421440
+    },
+    {
+      "status": "success",
+      "seq": "old-town-cross_1920x1080_500",
+      "hevc_size": 937503,
+      "yuv_size": 1555200000
+    },
+    {
+      "status": "success",
+      "seq": "paris_352x288_1065",
+      "hevc_size": 761247,
+      "yuv_size": 161948160
+    },
+    {
+      "status": "success",
+      "seq": "sign-irene_352x288_540",
+      "hevc_size": 349883,
+      "yuv_size": 82114560
+    },
+    {
+      "status": "success",
+      "seq": "silent_352x288_300",
+      "hevc_size": 150537,
+      "yuv_size": 45619200
+    },
+    {
+      "status": "success",
+      "seq": "simo_1920x1080_200",
+      "hevc_size": 418137,
+      "yuv_size": 622080000
+    },
+    {
+      "status": "success",
+      "seq": "pedestrian-area_1920x1080_375",
+      "hevc_size": 2536188,
+      "yuv_size": 1166400000
+    },
+    {
+      "status": "success",
+      "seq": "soccer_704x576_600",
+      "hevc_size": 1577434,
+      "yuv_size": 364953600
+    },
+    {
+      "status": "success",
+      "seq": "stefan_352x240_300",
+      "hevc_size": 739611,
+      "yuv_size": 38016000
+    },
+    {
+      "status": "success",
+      "seq": "students_352x288_1007",
+      "hevc_size": 263505,
+      "yuv_size": 153128448
+    },
+    {
+      "status": "success",
+      "seq": "tempete_352x288_260",
+      "hevc_size": 395989,
+      "yuv_size": 39536640
+    },
+    {
+      "status": "success",
+      "seq": "Netflix-RollerCoaster_2048x1080_1199",
+      "hevc_size": 6302370,
+      "yuv_size": 3977994240
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC001_640x360_150",
+      "hevc_size": 185028,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "Netflix-DrivingPOV_2048x1080_1199",
+      "hevc_size": 10255132,
+      "yuv_size": 3977994240
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC006_640x360_150",
+      "hevc_size": 375537,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC007_640x360_150",
+      "hevc_size": 399813,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC009_640x360_150",
+      "hevc_size": 251058,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC013_640x360_150",
+      "hevc_size": 350196,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC018_640x360_150",
+      "hevc_size": 621049,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC058_640x360_150",
+      "hevc_size": 319379,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC067_640x360_150",
+      "hevc_size": 139963,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC063_640x360_150",
+      "hevc_size": 290854,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC069_640x360_150",
+      "hevc_size": 176881,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC070_640x360_150",
+      "hevc_size": 326574,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC078_640x360_150",
+      "hevc_size": 58302,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC072_640x360_150",
+      "hevc_size": 375160,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC080_640x360_150",
+      "hevc_size": 71452,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC082_640x360_150",
+      "hevc_size": 38935,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC102_640x360_120",
+      "hevc_size": 119912,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC106_640x360_120",
+      "hevc_size": 628281,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC116_640x360_120",
+      "hevc_size": 134372,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "touchdown-pass_1920x1080_570",
+      "hevc_size": 4162360,
+      "yuv_size": 1772928000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC120_640x360_120",
+      "hevc_size": 56486,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC127_640x360_150",
+      "hevc_size": 157186,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC140_640x360_120",
+      "hevc_size": 133041,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC144_640x360_120",
+      "hevc_size": 130811,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC157_640x360_150",
+      "hevc_size": 62243,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC151_640x360_150",
+      "hevc_size": 160305,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC153_640x360_150",
+      "hevc_size": 127960,
+      "yuv_size": 51840000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC159_640x360_120",
+      "hevc_size": 115006,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC162_640x360_120",
+      "hevc_size": 129057,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC160_640x360_120",
+      "hevc_size": 356548,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC173_640x360_120",
+      "hevc_size": 147795,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC177_640x360_120",
+      "hevc_size": 96300,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC183_640x360_120",
+      "hevc_size": 84600,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC178_640x360_120",
+      "hevc_size": 131292,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC197_640x360_120",
+      "hevc_size": 55578,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC203_640x360_120",
+      "hevc_size": 81802,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "videoSRC206_640x360_120",
+      "hevc_size": 259868,
+      "yuv_size": 41472000
+    },
+    {
+      "status": "success",
+      "seq": "waterfall_352x288_260",
+      "hevc_size": 111314,
+      "yuv_size": 39536640
+    },
+    {
+      "status": "success",
+      "seq": "vtc1nw_720x480_360",
+      "hevc_size": 74782,
+      "yuv_size": 186624000
+    },
+    {
+      "status": "success",
+      "seq": "tractor_1920x1080_690",
+      "hevc_size": 7384503,
+      "yuv_size": 2146176000
+    }
+  ]
+}

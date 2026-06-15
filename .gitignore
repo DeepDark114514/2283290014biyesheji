@@ -47,8 +47,10 @@ test_*.cfg
 test_*.log
 *.bat
 
-# Dataset (too large)
-MFQEv2_processed/
+# Dataset raw/compressed YUV files (too large)
+MFQEv2_processed/gt/
+MFQEv2_processed/compressed/
+MFQEv2_processed/**/*.yuv
 
 # Docs (temporary)
 docs/
