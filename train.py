@@ -68,9 +68,6 @@ def build_model(cfg):
         raise ValueError(f'Unknown model_type: {model_type}')
 
 
-# 看看是否改了batch_size，我这里验证一下config
-print(f"[DEBUG] loading config, model_type={CONFIG.get('model_type', 'A')}")
-
 def build_dataloader_for_split(cfg, split):
     model_type = cfg.get('model_type', 'A')
     is_train = (split == 'train')
